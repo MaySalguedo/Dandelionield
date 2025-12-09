@@ -13,7 +13,7 @@ This repository contains a multi-module Java application exploring fundamental a
 **Disclaimer:** This project contains code written during my initial learning phase. Some sections exhibit suboptimal practices (tight coupling, limited error handling, inconsistent patterns) that reflect my growth throughout the development cycle.
 
 ## Repository Structure
-
+```bash
 src/
 ├── Algorithm/ # Data structures and algorithms
 │ ├── LinkedArrays/ # Custom linked-array hybrid implementations
@@ -37,7 +37,7 @@ src/
 └── Taylor/ # Taylor series implementations
 ├── Arithmetic/ # Series-based arithmetic
 └── Math/ # Mathematical function approximations
-
+```
 
 ## Prerequisites
 
